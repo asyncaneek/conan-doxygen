@@ -1,0 +1,21 @@
+# Doxyfile 1.8.14
+PROJECT_NAME        = {{name}}
+PROJECT_NUMBER      = {{version}}
+INPUT               = {{sources}}
+OUTPUT_DIRECTORY    = {{output}}
+EXTRACT_ALL         = YES
+RECURSIVE           = YES
+GENERATE_HTML       = YES
+GENERATE_LATEX      = NO
+GENERATE_XML        = NO
+GENERATE_TREEVIEW   = YES 
+DISABLE_INDEX       = NO
+FULL_SIDEBAR        = NO
+CLASS_DIAGRAMS      = YES
+CALLER_GRAPH        = YES
+LAYOUT_FILE            = .\template\Layout.xml
+IMAGE_PATH             = .\template\images
+PROJECT_LOGO           = .\template\images\aims_64.png
+HTML_EXTRA_STYLESHEET  = .\template\doxygen-awesome.css \
+.\template\doxygen-awesome-sidebar-only.css
+HTML_COLORSTYLE        = LIGHT # required with Doxygen >= 1.9.5

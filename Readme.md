@@ -1,4 +1,4 @@
-# cn-docs
+# conan-doxygen
 This repo contains documentation for CarteNav Development packages
 
 ## Pre-requisites

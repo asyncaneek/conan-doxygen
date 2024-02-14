@@ -1,5 +1,5 @@
 # conan-doxygen
-This repo contains documentation for CarteNav Development packages
+Generate documentation for conan packages using doxygen
 
 ## Pre-requisites
 doxygen - download and install from https://github.com/doxygen/doxygen/releases

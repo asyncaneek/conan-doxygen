@@ -8,7 +8,6 @@ conan - C++ package manager
 
 ## Build
 This is cli application written in Rust. To build:
-`cd ./cn-doxy`
 `cargo build`
 
 Usage: conan-doxygen [OPTIONS] <SRC>
